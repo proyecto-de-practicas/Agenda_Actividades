@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    if($(window).width() > 800){
+    if($(window).width() > 100){
         $('.efecto').css({
             opacity:0,
             marginTop:-70
